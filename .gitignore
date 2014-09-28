@@ -1,0 +1,20 @@
+# Vendor (e.g. Composer)
+vendor/*
+!vendor/.gitkeep
+
+# Node Package Manager
+node_modules
+
+# Vagrant
+bin
+.vagrant
+
+# PHP Storm
+.idea/*
+.inputrc
+
+# MAC OS Annoyances
+.DS_STORE
+
+# SQL files - Personal Preference
+*.sql
