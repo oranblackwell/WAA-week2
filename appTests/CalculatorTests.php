@@ -1,6 +1,6 @@
 <?php
 //include "fiddle_envlib.php";
-require_once "../../../inclibs/simpletest/autorun.php";
+require_once "../simpletest/autorun.php";
 
 class CalculatorTests extends UnitTestCase
 {
